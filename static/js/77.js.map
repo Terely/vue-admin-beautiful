@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/77.js","sources":["webpack:///./src/api/icon.js"],"sourcesContent":["import request from \"@/utils/request\";\n\nexport function getIconList(data) {\n  return request({\n    url: \"/icon/list\",\n    method: \"post\",\n    data,\n  });\n}\n"],"mappings":";;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAEA;AACA;AACA;AACA;AACA;AAHA;AAKA;;;;A","sourceRoot":""}

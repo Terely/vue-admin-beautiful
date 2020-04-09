@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/88.js","sources":["webpack:///./src/plugins/byuiSwiper.js"],"sourcesContent":["import byuiSwiper from \"zx-swiper\";\n\nexport default byuiSwiper;\n"],"mappings":";;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAEA;;;;A","sourceRoot":""}
